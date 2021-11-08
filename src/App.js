@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-
+import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap/dist/js/bootstrap.bundle.js';
 function App() {
   return (
     <div className="App">
@@ -10,6 +11,7 @@ function App() {
       </header>
       <section>
         <h1>Contenu</h1>
+        <button type="button" className="btn btn-primary">Primary</button>
       </section>
       <footer>
         <h2>Footer</h2>
@@ -17,5 +19,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
