@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mon-mini-site-react/static/css/main.53cba8c0.chunk.css",
+    "main.js": "/mon-mini-site-react/static/js/main.948c56b1.chunk.js",
+    "main.js.map": "/mon-mini-site-react/static/js/main.948c56b1.chunk.js.map",
+    "runtime-main.js": "/mon-mini-site-react/static/js/runtime-main.de28b013.js",
+    "runtime-main.js.map": "/mon-mini-site-react/static/js/runtime-main.de28b013.js.map",
+    "static/css/2.a75f5a2c.chunk.css": "/mon-mini-site-react/static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.ed931182.chunk.js": "/mon-mini-site-react/static/js/2.ed931182.chunk.js",
+    "static/js/2.ed931182.chunk.js.map": "/mon-mini-site-react/static/js/2.ed931182.chunk.js.map",
+    "static/js/3.2b5c4aad.chunk.js": "/mon-mini-site-react/static/js/3.2b5c4aad.chunk.js",
+    "static/js/3.2b5c4aad.chunk.js.map": "/mon-mini-site-react/static/js/3.2b5c4aad.chunk.js.map",
+    "index.html": "/mon-mini-site-react/index.html",
+    "static/css/2.a75f5a2c.chunk.css.map": "/mon-mini-site-react/static/css/2.a75f5a2c.chunk.css.map",
+    "static/css/main.53cba8c0.chunk.css.map": "/mon-mini-site-react/static/css/main.53cba8c0.chunk.css.map",
+    "static/js/2.ed931182.chunk.js.LICENSE.txt": "/mon-mini-site-react/static/js/2.ed931182.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mon-mini-site-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de28b013.js",
+    "static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.ed931182.chunk.js",
+    "static/css/main.53cba8c0.chunk.css",
+    "static/js/main.948c56b1.chunk.js"
+  ]
+}
