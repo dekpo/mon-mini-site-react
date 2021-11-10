@@ -16,9 +16,9 @@ function App() {
       <BrowserRouter>
         <Header />
         <Routes>
-          <Route path="/mon-mini-site-react/" element={<Home />} />
-          <Route path="/mon-mini-site-react/gallery" element={ <Gallery />} />
-          <Route path="/mon-mini-site-react/contact" element={ <Contact />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/gallery" element={ <Gallery />} />
+          <Route path="/contact" element={ <Contact />} />
         </Routes>
       </BrowserRouter>
 
